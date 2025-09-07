@@ -1,0 +1,95 @@
+/*/ #B8CDF8;
+• #3D405B
+• #E07A5F
+• #FFFFFF
+• #EEEEEE
+• #81B29A
+• #F2CC8F /*/
+
+
+
+body{background-color: #B8CDF8;
+font-family: Bradley Hand, cursive;
+font-size: medium,larger,xx-large,1em;
+font-weight: normal,bold;
+color: #3D405B;
+margin: 0%;
+}
+
+header{background-color: #EEEEEE;
+color: #3D405B;
+width: 60%;
+margin: auto;
+}
+
+blockquote{background-color:  #F2CC8F;
+    border-radius: .5em;
+padding: 1%;
+}
+
+section{background-color: #81B29A;
+    border-radius: 1em;
+width: 70%;
+margin-bottom: 1em;}
+
+article{justify-content: space-between;
+margin-bottom: 1em;}
+
+nav{background-color: #E07A5F;
+text-align: right;
+padding: .1em;
+}
+
+nav ul{padding: 1em;list-style: none;
+}
+
+nav ul li{display: inline-block;
+text-decoration: none;
+}
+
+aside{background-color: #81B29A;
+    width: 20%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    border-radius: 1em;
+}
+
+.parent{display: flex;
+justify-content: space-evenly;
+list-style: none;
+}
+
+.small_article{background-color: #81B29A;
+width: 30%;
+border-radius: 1em;
+}
+
+.fact{background-color: #81B29A;
+}
+
+.navbar {list-style: none;
+}
+
+.navbar li{display: inline;
+    padding: 1em;
+}
+
+.navbar a{color: #3D405B;
+text-decoration: none;
+}
+
+li a:hover{color: #EEEEEE;
+    background-color: #3D405B;
+    padding: 1em;
+}
+
+.fact{padding: 0.6%;
+}
+
+img{
+width: 10%;
+}
+
+ul{list-style: none;
+}
