@@ -1,2 +1,2 @@
-# firstyearVisualDesign
-Exploring HTML, and CSS as a first year module
+# firstyearVisualDesignweek3
+Exploring HTML, and CSS as a first year module.
