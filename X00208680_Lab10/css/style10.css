@@ -1,0 +1,33 @@
+/*/	#F89D2A
+	#83D988
+	#6BAAFA
+    #FB88F4
+/*/
+body{background-color: #F89D2A;
+margin: 0%;
+}
+
+nav{background-color: #6baafa;
+    text-align: center;
+    list-style: none;
+padding: 1%;
+}
+nav ul{
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li{display: inline-block;
+    text-decoration: none;
+    }
+
+img{display: block;
+        margin: auto;
+    }
+
+li a:hover{
+            background-color: #83d988;
+            padding: 1em;
+}
+li a{padding: 50px}
