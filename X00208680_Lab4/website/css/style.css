@@ -1,0 +1,41 @@
+body {background-color:#EF402C ;
+font-family: Arial, Helvetica, sans-serif;}
+
+h2 {color: #2cef5d;}
+
+h1 {color: #ffd0cb;}
+
+link {font-size: 120%;
+color: #2cef5d;}
+
+link :hover { color: #1fa741;}
+
+li{ border-style: double;
+border-color: #2CEFA2;}
+
+P{border-style: dotted;
+border-color: #dbef2c;}
+
+h2{font-style: italic;}
+
+article{color: #a72c1f;}
+
+/* unvisited link */
+a:link {
+    color: #1fa741;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: #1fa741;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: #2cef5d;
+  }
+  
+  /* selected link */
+  a:active {
+    color: #2cef5d;
+  }
